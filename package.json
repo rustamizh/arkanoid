@@ -1,0 +1,14 @@
+{
+  "name": "arkanoid",
+  "version": "1.0.0",
+  "description": "My first arkade game on javascript",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ru",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  }
+}
